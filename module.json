@@ -1,0 +1,13 @@
+{
+    "name": "BrpRise",
+    "alias": "brprise",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Oem\\BrpRise\\Providers\\BrpRiseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

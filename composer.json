@@ -1,0 +1,23 @@
+{
+    "name": "jacksondawson/brprise",
+    "description": "",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Oem\\BrpRise\\": ""
+        }
+    }
+}
